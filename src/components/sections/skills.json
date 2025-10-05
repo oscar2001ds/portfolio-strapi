@@ -1,0 +1,43 @@
+{
+  "collectionName": "components_sections_skills",
+  "info": {
+    "displayName": "Skills"
+  },
+  "options": {},
+  "attributes": {
+    "baseDescription": {
+      "type": "text"
+    },
+    "tec1": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::tecnology.tecnology"
+    },
+    "tec2": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::tecnology.tecnology"
+    },
+    "tec3": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::tecnology.tecnology"
+    },
+    "tec4": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::tecnology.tecnology"
+    },
+    "tec5": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::tecnology.tecnology"
+    },
+    "tec6": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::tecnology.tecnology"
+    }
+  },
+  "config": {}
+}

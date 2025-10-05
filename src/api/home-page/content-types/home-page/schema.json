@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_pages",
+  "info": {
+    "singularName": "home-page",
+    "pluralName": "home-pages",
+    "displayName": "HomePage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "aboutMe": {
+      "type": "component",
+      "component": "sections.about-me",
+      "repeatable": false
+    },
+    "skills": {
+      "type": "component",
+      "component": "sections.skills",
+      "repeatable": false
+    },
+    "work": {
+      "type": "component",
+      "component": "sections.work",
+      "repeatable": false
+    }
+  }
+}

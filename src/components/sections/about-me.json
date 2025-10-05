@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sections_about_mes",
+  "info": {
+    "displayName": "AboutMe"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

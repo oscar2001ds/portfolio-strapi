@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_common_labels",
+  "info": {
+    "displayName": "label"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
